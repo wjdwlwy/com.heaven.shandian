@@ -1,5 +1,5 @@
 # com.heaven.shandian
-# 闪电 隐私政策
+# Star-Box 隐私政策
 
 最后更新：2026-10-23
 
